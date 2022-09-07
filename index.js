@@ -1,1 +1,1 @@
-console.log("Começando um novo projeto!");
+console.log("Aqui vai ser criado testes a partir de uma base.");
